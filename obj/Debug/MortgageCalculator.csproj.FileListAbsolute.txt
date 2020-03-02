@@ -1,0 +1,14 @@
+C:\Users\SCARLETH-RIG\Documents\Visual Studio 2019\Project\CalculadoraHipoteca\MortgageCalculator\obj\Debug\MortgageCalculator.csprojAssemblyReference.cache
+C:\Users\SCARLETH-RIG\Documents\Visual Studio 2019\Project\CalculadoraHipoteca\MortgageCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\SCARLETH-RIG\Documents\Visual Studio 2019\Project\CalculadoraHipoteca\MortgageCalculator\obj\Debug\App.g.cs
+C:\Users\SCARLETH-RIG\Documents\Visual Studio 2019\Project\CalculadoraHipoteca\MortgageCalculator\obj\Debug\MortgageCalculator_MarkupCompile.cache
+C:\Users\SCARLETH-RIG\Documents\Visual Studio 2019\Project\CalculadoraHipoteca\MortgageCalculator\obj\Debug\MortgageCalculator_MarkupCompile.lref
+C:\Users\SCARLETH-RIG\Documents\Visual Studio 2019\Project\CalculadoraHipoteca\MortgageCalculator\bin\Debug\MortgageCalculator.exe.config
+C:\Users\SCARLETH-RIG\Documents\Visual Studio 2019\Project\CalculadoraHipoteca\MortgageCalculator\bin\Debug\MortgageCalculator.exe
+C:\Users\SCARLETH-RIG\Documents\Visual Studio 2019\Project\CalculadoraHipoteca\MortgageCalculator\bin\Debug\MortgageCalculator.pdb
+C:\Users\SCARLETH-RIG\Documents\Visual Studio 2019\Project\CalculadoraHipoteca\MortgageCalculator\obj\Debug\MainWindow.baml
+C:\Users\SCARLETH-RIG\Documents\Visual Studio 2019\Project\CalculadoraHipoteca\MortgageCalculator\obj\Debug\MortgageCalculator.g.resources
+C:\Users\SCARLETH-RIG\Documents\Visual Studio 2019\Project\CalculadoraHipoteca\MortgageCalculator\obj\Debug\MortgageCalculator.Properties.Resources.resources
+C:\Users\SCARLETH-RIG\Documents\Visual Studio 2019\Project\CalculadoraHipoteca\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.GenerateResource.cache
+C:\Users\SCARLETH-RIG\Documents\Visual Studio 2019\Project\CalculadoraHipoteca\MortgageCalculator\obj\Debug\MortgageCalculator.exe
+C:\Users\SCARLETH-RIG\Documents\Visual Studio 2019\Project\CalculadoraHipoteca\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
